@@ -11,9 +11,9 @@
 
 		<p><b>Profession</b> Full time tax auditor for the city of Albuquerque.  He recently recieved an unexpected bonus and has decided to use it to purchase more memorabillia to add to his collection.</p>
 
-		<p><b>Technology</b>: Macbook pro 15" laptop with retina display and a 30" hi-def Samsung television at home. Broadband internet through the devil aka Comcast</p>
+		<p><b>Technology</b>: Macbook pro 15" laptop with retina display, iPhone 5 and a 30" hi-def Samsung television at home. Broadband internet through the devil aka Comcast</p>
 
-		<p><b>Attitudes and Behaviors</b>: He is an avid collector who searches far and wide both on line and the real world to finish his collection of original 1970's star wars action figures.  His fandom is in every corner of his life.  He has Stara Wars socks, Star Wars sheets on his bed, Darth Vader bath soap and he even had a Star Wars theme wedding with his bride wearing the iconic Leia buns. </p>
+		<p><b>Attitudes and Behaviors</b>: He is an avid collector who searches far and wide both on line and the real world to finish his collection of original 1970's star wars action figures.  His fandom is in every corner of his life.  He has Star Wars socks, Star Wars sheets on his bed, Darth Vader bath soap and he even had a Star Wars theme wedding with his bride wearing the iconic Leia buns. </p>
 
 		<p><b>Needs and Frustrations</b>: He is looking to buy original Star Wars memorablilia that is missing from his collection.  He enjoys the convenience of bidding online because it is hard to find a lot of the original merchandise he is looking for here in Albuquerque. He has bid on several online auctions and has used ebay for several of his memorabillia purchases. He has been to several live auctions in person but he is new to "live" online auctions. He is intrigued by the original Star Wars props that are for sale in an upcoming eBay Live auction. While it is convinient to bid online he hates when he loses an auction because he was busy and couldn't up his bid in time. He hopes that "live" eBay auctions will eliminate this problem because he will be watching it happen "live".</p>
 
