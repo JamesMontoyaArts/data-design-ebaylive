@@ -8,7 +8,7 @@
 
 		<h1>Persona</h1>
 
-		<img src="Carlos Persona.jpg" alt="Carlos" height="100%" width="100%">
+		<img src="img/Carlos Persona.jpg" alt="Carlos" height="30%" width="30%">
 
 		<p><b>Name</b>: Carlos Contreas</p>
 
@@ -65,7 +65,7 @@
 					<li>lotStartBid</li>
 					<li>lotValueEstimate</li>
 					<li>lotDiscription</li>
-					<li>catIdNumber</li>
+					<li>catId</li>
 
 				</ul>
 
@@ -77,8 +77,8 @@
 					<li>companyLogo</li>
 					<li>companyLocation</li>
 					<li>companyBuyerPremium</li>
-					<li>shippingPoliciy</li>
-					<li>paymentPoliciy</li>
+					<li>shippingPolicy</li>
+					<li>paymentPolicy</li>
 
 				</ul>
 
