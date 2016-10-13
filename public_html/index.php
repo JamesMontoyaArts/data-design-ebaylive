@@ -8,6 +8,8 @@
 
 		<h1>Persona</h1>
 
+		<img src="Carlos Persona.jpg" alt="Carlos" height="100%" width="100%">
+
 		<p><b>Name</b>: Carlos Contreas</p>
 
 		<p><b>Age</b>: 33 </p>
