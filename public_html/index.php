@@ -65,7 +65,6 @@
 					<li>lotStartBid</li>
 					<li>lotValueEstimate</li>
 					<li>lotDiscription</li>
-					<li>lotCatalogId</li>
 
 				</ul>
 
@@ -88,11 +87,15 @@
 
 					<li>catalogId</li>
 					<li>catalogName</li>
-					<li>companyId</li>
 
 				</ul>
 
 		</ul>
 
+		<h5>Relationships</h5>
+
+		
+
 	</body>
+
 </html>
