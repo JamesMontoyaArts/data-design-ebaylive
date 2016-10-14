@@ -74,7 +74,7 @@
 
 					<li>companyId</li>
 					<li>companyLogo</li>
-					<li>companyLocation</li>
+					<li>companyAddress</li>
 					<li>companyBuyerPremium</li>
 					<li>companyShippingPolicy</li>
 					<li>companyPaymentPolicy</li>
