@@ -46,5 +46,62 @@ class Company {
 	 **/
 	private $companyPaymentPolicy;
 
+	// CONSTRUCTION GOES HERE LATER
+
+	/**
+	 * accessor method for company id
+	 *
+	 * @return int|null value of company id
+	 */
+	public function getCompanyId() {
+		return $this->companyId;
+	}
+
+	/**
+ 	* accessor method for company logo
+ 	*
+ 	* @return string of company logo
+ 	*/
+	public function getCompanyLogo() {
+		return $this->companyLogo;
+	}
+
+	/**
+ * accessor method for company address
+ *
+ * @return string for company address
+ */
+	public function getCompanyAddress() {
+		return $this->companyAddress;
+	}
+
+	/**
+	 * accessor method for company buyer premium
+	 *
+	 * @return int for company buyer premium
+	 */
+	public function getCompanyBuyerPremium() {
+		return $this->companyBuyerPremium;
+	}
+
+	/**
+	 * accessor method for company shipping policy
+	 *
+	 * @return string for company shipping policy
+	 */
+	public function getCompanyShippingPolicy() {
+		return $this->companyShippingPolicy;
+	}
+
+	/**
+	 * accessor method for company payment policy
+	 *
+	 * @return string for company payment policy
+	 */
+	public function getCompanyPaymentPolicy() {
+		return $this->companyPaymentPolicy;
+	}
 }
+
+
 
