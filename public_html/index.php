@@ -55,46 +55,43 @@
 
 		<ul>
 
-			<li>Lots</li>
+			<li>Company</li>
 
-				<ul>
+			<ul>
 
-					<li>lotId</li>
-					<li>lotName</li>
-					<li>lotImage</li>
-					<li>lotStartBid</li>
-					<li>lotValueEstimate</li>
-					<li>lotDiscription</li>
+				<li>companyId</li>
+				<li>companyLogo</li>
+				<li>companyAddress</li>
+				<li>companyBuyerPremium</li>
+				<li>companyShippingPolicy</li>
+				<li>companyPaymentPolicy</li>
 
-				</ul>
-
-			<li>Company Profile</li>
-
-				<ul>
-
-					<li>companyId</li>
-					<li>companyLogo</li>
-					<li>companyAddress</li>
-					<li>companyBuyerPremium</li>
-					<li>companyShippingPolicy</li>
-					<li>companyPaymentPolicy</li>
-
-				</ul>
+			</ul>
 
 			<li>Catalog</li>
 
-				<ul>
+			<ul>
 
-					<li>catalogId</li>
-					<li>catalogName</li>
+				<li>catalogId</li>
+				<li>catalogName</li>
 
-				</ul>
+			</ul>
+
+			<li>Lots</li>
+
+			<ul>
+
+				<li>lotId</li>
+				<li>lotName</li>
+				<li>lotImage</li>
+				<li>lotStartBid</li>
+				<li>lotValueEstimate</li>
+				<li>lotDiscription</li>
+
+			</ul>
 
 		</ul>
 
-		<h5>Relationships</h5>
-
-		
 
 	</body>
 
