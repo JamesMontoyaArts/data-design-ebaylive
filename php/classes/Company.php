@@ -112,10 +112,10 @@ class Company {
 	/**
 	 * mutator method for company address
 	 *
-	 * @param string $newCompanyAddress new string of company address
+	 * @param string $newCompanyAdress new string of company address
 	 * @throws UnexpectedValueException if $newCompanyAddress is not a string
 	 */
-	public function setCompanyAddress($newCompanyAdress) {
+	public function setCompanyAddress($newCompanyAddress) {
 		$newCompanyAddress = filter_input($newCompanyAddress, FILTER_SANITIZE_STRING);
 		if($newCompanyAddress === false)	{
 			throw(new UnexpectedValueException("Company Address Invalid"));
@@ -200,6 +200,8 @@ class Company {
 		return $this->companyPaymentPolicy;
 	}
 }
+
+
 
 
 
